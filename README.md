@@ -36,6 +36,9 @@ ECS Service (EC2 Launch Type)
 Application Load Balancer
 ```
 
+
+![ECS-CodeDeploy](https://github.com/user-attachments/assets/759636b3-731f-4aff-82ea-9d4dd3cbfc6a)
+
 ---
 
 ## ✅ Prerequisites
