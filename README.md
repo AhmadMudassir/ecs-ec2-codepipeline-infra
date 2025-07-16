@@ -53,6 +53,8 @@ Application Load Balancer
   - Application Load Balancer
   - CodePipeline, CodeBuild, and ECR repository
 
+⚠️ **Important:** You must create the AWS CodeStar (or CodeConnections) connection to GitHub manually in the AWS Console before deploying. This is not provisioned by Terraform.
+
 ---
 
 ## ⚡ Getting Started
