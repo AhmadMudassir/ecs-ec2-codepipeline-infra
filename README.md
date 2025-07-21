@@ -1,4 +1,4 @@
-# 🚀 ECS EC2 Launch Type CI/CD Pipeline with Terraform
+# 🚀 ECS EC2 Launch Type CI/CD Pipeline with Terraform (Console Pipeline Repo - ECS Infra only)
 
 This repository contains Infrastructure as Code (IaC) using Terraform to provision an end-to-end AWS ECS cluster (EC2 launch type) with an Application Load Balancer (ALB), and a complete CI/CD pipeline using AWS CodePipeline and CodeBuild to deploy a Dockerized application from source to ECS.
 
